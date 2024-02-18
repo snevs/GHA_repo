@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-echo -e "test"
+scho -e "test"
